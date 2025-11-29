@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cv" width="800" alt="Customer Churn Prediction Cover Page">
+</p>
+
+
 # 🇮🇳 India General Election Results Analysis – 2024 (Power BI)
 
 > Ever wondered how data reveals the real story behind the world’s largest democracy?
