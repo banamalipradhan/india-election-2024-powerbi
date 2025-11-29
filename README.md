@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cv" width="800" alt="Customer Churn Prediction Cover Page">
+  <img src="cover page/cover_page.jpg" width="800" alt="India General Election Results">
 </p>
 
 
